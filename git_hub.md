@@ -12,7 +12,7 @@ git remote -v -- to check what are the repo present
 
 git push origin main -- to push into origin ( but the origin may be master)
 
-git branch -m main -- to chnage the origin from master to main
+git branch -m main -- to change the origin from master to main
 
 git push origin main -- to push into origin main
 
@@ -62,3 +62,11 @@ git merge feature-branch
 
 git config --global user.name "Your Name"
 git config --global user.email "your-email@example.com"
+
+# regadharani
+## balamurali
+**bold**
+
+@ rnkrn
+%jhjewf
+
